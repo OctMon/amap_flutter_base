@@ -1,4 +1,4 @@
-part of amap_flutter_base;
+part of amap_flutter_base_plus;
 
 class AMapUtil {
   static AMapUtil _instance = AMapUtil._();

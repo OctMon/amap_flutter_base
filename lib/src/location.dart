@@ -1,4 +1,4 @@
-part of amap_flutter_base;
+part of amap_flutter_base_plus;
 
 ///定位信息类
 ///

@@ -1,4 +1,4 @@
-part of amap_flutter_base;
+part of amap_flutter_base_plus;
 // 此文件中定义回调的模板类型
 
 /// 带有一个回调参数的回调类型
